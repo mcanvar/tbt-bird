@@ -1,12 +1,12 @@
 # TBT Bird
 
-![dobird](public/dobird.png?raw=true "dobird")
-
 ![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
 
-Whistles for the twitter bird to come back.
+Whistles for the Twitter bird to come back.
 
 To install locally please refer [here](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked).
+
+![dobird](public/dobird.png?raw=true "dobird")
 
 ## Prerequisites
 
